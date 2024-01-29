@@ -49,4 +49,4 @@ Systemes d'Exploitations : GNU/Linux
 
 
 ## License
-Ce projet est sous licence MIT. Vous êtes libre de copier, modifier et distribuer ce code. Consultez le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT. Vous êtes libre de copier, modifier et distribuer ce code. Consultez le fichier **LICENSE** pour plus de détails.
