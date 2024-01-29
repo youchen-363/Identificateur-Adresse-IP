@@ -1,4 +1,4 @@
-# mini_projet_c_sujet2
+# Mini Projet C Sujet2
 Mini projet C réalisé par les étudiants :
 - Bernard-Nicod Vivien
 - Goujon Maël
@@ -6,7 +6,7 @@ Mini projet C réalisé par les étudiants :
 - Koh You Chen
 
 
-# Mini Projet C Package:
+# Introduction
 Ce package propose une application executable permettant de catégoriser une adresse IP ainsi que d'en extraire l'addresse réseau et l'adresse Host.
 
 L'objectif de cette application est de faciliter la recherche d'informations sur les adresses IP.
