@@ -1,0 +1,11 @@
+=======================================================================
+ENSEMBLE DES ENREGISTREMENTS DE RECHERCHES D'INFORMATIONS D'ADRESSES IP
+=======================================================================
+
+Détail des enregistrements :
+----------------------------
+1.	Date et heure de l'enregistrement
+2.	Adresse IP recherchée
+3.	Informations relatives à l'adresse IP recherchée (classe, type, adresse réseau, adresse host)
+
+
